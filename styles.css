@@ -1,0 +1,68 @@
+h1 {
+  color:#00bcd4;
+  font-size: 562.5%;
+  margin: 0 auto;
+  margin-top: 50px;
+  font-family: 'Kaushan Script', cursive;
+}
+h2{
+  color:#00909e;
+  font-family: 'Sacramento', cursive;
+    font-size: 362.5%;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Handlee', cursive;
+}
+
+.top {
+  height: 100%;
+  background-color: #c2f0fc;
+  padding-top: 50px;
+
+}
+.middle{
+  position:relative;
+  top:0;
+  margin:0;
+  padding-top: 0;
+}
+.hogwarts{
+
+  border-radius: 20%;
+}
+.profile{
+  background-color: #81f5ff;
+}
+.prof {
+  position:relative;
+  top:30px;
+height:300px;
+width:200px;
+border-radius: 100%;
+}
+p{
+  font-size: 20px;
+}
+.skills{
+  margin:0;
+  position: relative;
+  top:0;
+  
+}
+
+
+.top-cloud {
+  position: relative;
+  left: 200px;
+  top: 10px;
+  bottom: 10px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  top: 100px;
+}
